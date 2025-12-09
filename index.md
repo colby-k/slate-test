@@ -3,8 +3,6 @@ title: "Internal Audit & Analytics Portfolio"
 layout: default
 ---
 
-{% include analytics.html %}
-
 # Internal Audit & Analytics Portfolio
 
 Welcome! I’m an **Internal Audit Manager (CIA, CFE, CICA)** who builds:

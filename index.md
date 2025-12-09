@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 ---
 title: "Internal Audit & Analytics Portfolio"
 layout: default

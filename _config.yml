@@ -1,0 +1,59 @@
+title: "Internal Audit & Analytics Portfolio"
+logo: "/assets/img/profile_circle.png"
+description: >
+  <strong>Colby Kellersberger, CIA, CFE, CICA</strong><br><br>
+
+  Internal Audit Manager building Excel audit tools, Power BI dashboards,
+  and Python apps to make testing more efficient, risk-focused, and repeatable.<br><br>
+
+  <a href="https://linkedin.com/in/colby-k" target="_blank" style="text-decoration: none;">
+    <img src="/assets/icons/LinkedIn.svg" width="28" title="LinkedIn" style="margin-right: 6px;">
+  </a>
+  <a href="https://github.com/colby-k" target="_blank" style="text-decoration: none;">
+    <img src="/assets/icons/github.svg" width="28" title="GitHub">
+  </a>
+  <br><br>
+
+  <strong>Tools I Use:</strong><br><br>
+
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank">
+    <img src="/assets/icons/power_bi.svg" width="25" title="Power BI" style="margin-right: 6px;">
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server" target="_blank">
+    <img src="/assets/icons/SQL_2025.svg" width="25" title="SQL" style="margin-right: 6px;">
+  </a>
+
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="/assets/icons/excel.svg" width="25" title="Excel" style="margin-right: 6px;">
+  </a>
+
+  <a href="https://www.python.org" target="_blank">
+    <img src="/assets/icons/python.svg" width="25" title="Python" style="margin-right: 6px;">
+  </a>
+
+  <a href="https://jupyter.org" target="_blank">
+    <img src="/assets/icons/jupyter.svg" width="25" title="Jupyter" style="margin-right: 6px;">
+  </a>
+
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="/assets/icons/vs_code.svg" width="25" title="VS Code" style="margin-right: 6px;">
+  </a>
+
+  <a href="https://streamlit.io" target="_blank">
+    <img src="/assets/icons/streamlit.svg" width="25" title="Streamlit" style="vertical-align: middle;">
+  </a>
+
+favicon: "/portfolio.ico"
+
+remote_theme: pages-themes/slate@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+
+markdown: kramdown
+
+url: "https://colby-k.github.io"
+baseurl: ""
